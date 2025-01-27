@@ -22,6 +22,10 @@ Fixeu-vos que per poder i instal·lar el servei de FTP, cal instal·lar previame
 Us facilito la següent pàgina web [Installing IIS 8.5 on Windows Server 2012 R2](https://learn.microsoft.com/en-us/iis/install/installing-iis-85/installing-iis-85-on-windows-server-2012-r2)
 
 
+Recordeu que per no instal·lar els serveis des de Internet, podeu fer l'opció **`Specify an alternate source path`**, just al moment de fer l'instal·lació.
+
+![specify-an-alternate-source-path-image.png](specify-an-alternate-source-path-image.png)
+
 ### Detalls
 
 De moment, en aquesta primera part, cal que instal·leu el **servei FTP** només per usuari **`anonymous`**.
