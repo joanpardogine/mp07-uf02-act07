@@ -2,7 +2,7 @@
  
 ## **Objectiu**
 
-Instal·lació i configuració del servei de FTP (**`File Transport Protocol`**) en un servidor **Windows 2020 Server**. I posterior comprovació del correcte funcionament des d'una màquina amb un **sistema operatiu client**.
+Instal·lació i configuració del servei de FTP (**`File Transport Protocol`**) en un servidor **Windows 2022 Server**. I posterior comprovació del correcte funcionament des d'una màquina amb un **sistema operatiu client**.
 
 # **Eines**
 
@@ -20,6 +20,11 @@ Podeu consultar la pàgina web [Build an FTP Site on IIS](https://learn.microsof
 Fixeu-vos que per poder i instal·lar el servei de FTP, cal instal·lar previament el servei **`IIS`** (**`Internet Information Server`**).
 
 Us facilito la següent pàgina web [Installing IIS 8.5 on Windows Server 2012 R2](https://learn.microsoft.com/en-us/iis/install/installing-iis-85/installing-iis-85-on-windows-server-2012-r2)
+
+
+### Detalls
+
+De moment, en aquesta primera part, cal que instal·leu el **servei FTP** només per usuari **`anonymous`**.
 
 # **Avaluació**
 
