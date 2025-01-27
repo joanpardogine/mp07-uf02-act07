@@ -15,11 +15,11 @@ Per tal de dur a terme la pràctica la instal·lació s'implementarà sobre la m
 
 ## Instal·lació de servei de FTP (***`File Transport Protocol`***)
 
-
 Podeu consultar la pàgina web [Build an FTP Site on IIS](https://learn.microsoft.com/en-us/iis/publish/using-the-ftp-service/scenario-build-an-ftp-site-on-iis).
 
 Fixeu-vos que per poder i instal·lar el servei de FTP, cal instal·lar previament el servei **`IIS`** (**`Internet Information Server`**).
 
+Us facilito la següent pàgina web [Installing IIS 8.5 on Windows Server 2012 R2](https://learn.microsoft.com/en-us/iis/install/installing-iis-85/installing-iis-85-on-windows-server-2012-r2)
 
 # **Avaluació**
 
